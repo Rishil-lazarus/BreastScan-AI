@@ -1,8 +1,7 @@
 # BreastScan-AI
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16+-orange.svg)](https://www.tensorflow.org/)
+
+
 
 An AI-powered web application for breast cancer detection using deep learning models. Upload medical images and get instant classification results for benign, malignant, or normal breast tissue.
 
@@ -273,9 +272,8 @@ We welcome contributions from the community! Here's how you can help:
 - Update documentation as needed
 - Ensure all dependencies are properly listed
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments / References
 
@@ -300,4 +298,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Disclaimer*: This tool is for research and educational purposes only. It should not be used as a substitute for professional medical diagnosis. Always consult qualified healthcare professionals for medical decisions.
 
-For questions or support, please open an issue on GitHub.
+## 📞 Support
+
+### Getting Help
+- *Documentation*: Check the docs folder for detailed guides
+- *Issues*: Report bugs via GitHub Issues
+- *Discussions*: Join community discussions
+- *Security*: Report security issues privately
+
+### Contact Information
+- *Project Lead*: Rishil P  & FASIL RAHMAN TK 
+- *Email*: fasil.ai.tinos@gmail.com
+- *GitHub*: https://github.com/Fasiiltk
+
+Last updated: [09-29-2025]
+
+
+Version: 1.0.0
